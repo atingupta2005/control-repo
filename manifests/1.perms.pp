@@ -1,4 +1,4 @@
-file{'c:/tempperms':
+file{'c:/tempperms2':
  ensure => directory,
 }
 
